@@ -1,0 +1,15 @@
+C:\Users\shado\Documents\Projects2\My CSharp Projects\Pokemon_Daycare2\Pokemon-Daycare2\Pokemon-Daycare2\bin\Debug\net10.0\Pokemon-Daycare2.exe
+C:\Users\shado\Documents\Projects2\My CSharp Projects\Pokemon_Daycare2\Pokemon-Daycare2\Pokemon-Daycare2\bin\Debug\net10.0\Pokemon-Daycare2.deps.json
+C:\Users\shado\Documents\Projects2\My CSharp Projects\Pokemon_Daycare2\Pokemon-Daycare2\Pokemon-Daycare2\bin\Debug\net10.0\Pokemon-Daycare2.runtimeconfig.json
+C:\Users\shado\Documents\Projects2\My CSharp Projects\Pokemon_Daycare2\Pokemon-Daycare2\Pokemon-Daycare2\bin\Debug\net10.0\Pokemon-Daycare2.dll
+C:\Users\shado\Documents\Projects2\My CSharp Projects\Pokemon_Daycare2\Pokemon-Daycare2\Pokemon-Daycare2\bin\Debug\net10.0\Pokemon-Daycare2.pdb
+C:\Users\shado\Documents\Projects2\My CSharp Projects\Pokemon_Daycare2\Pokemon-Daycare2\Pokemon-Daycare2\obj\Debug\net10.0\Pokemon-Daycare2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shado\Documents\Projects2\My CSharp Projects\Pokemon_Daycare2\Pokemon-Daycare2\Pokemon-Daycare2\obj\Debug\net10.0\Pokemon-Daycare2.AssemblyInfoInputs.cache
+C:\Users\shado\Documents\Projects2\My CSharp Projects\Pokemon_Daycare2\Pokemon-Daycare2\Pokemon-Daycare2\obj\Debug\net10.0\Pokemon-Daycare2.AssemblyInfo.cs
+C:\Users\shado\Documents\Projects2\My CSharp Projects\Pokemon_Daycare2\Pokemon-Daycare2\Pokemon-Daycare2\obj\Debug\net10.0\Pokemon-Daycare2.csproj.CoreCompileInputs.cache
+C:\Users\shado\Documents\Projects2\My CSharp Projects\Pokemon_Daycare2\Pokemon-Daycare2\Pokemon-Daycare2\obj\Debug\net10.0\Pokemon-Daycare2.sourcelink.json
+C:\Users\shado\Documents\Projects2\My CSharp Projects\Pokemon_Daycare2\Pokemon-Daycare2\Pokemon-Daycare2\obj\Debug\net10.0\Pokemon-Daycare2.dll
+C:\Users\shado\Documents\Projects2\My CSharp Projects\Pokemon_Daycare2\Pokemon-Daycare2\Pokemon-Daycare2\obj\Debug\net10.0\refint\Pokemon-Daycare2.dll
+C:\Users\shado\Documents\Projects2\My CSharp Projects\Pokemon_Daycare2\Pokemon-Daycare2\Pokemon-Daycare2\obj\Debug\net10.0\Pokemon-Daycare2.pdb
+C:\Users\shado\Documents\Projects2\My CSharp Projects\Pokemon_Daycare2\Pokemon-Daycare2\Pokemon-Daycare2\obj\Debug\net10.0\Pokemon-Daycare2.genruntimeconfig.cache
+C:\Users\shado\Documents\Projects2\My CSharp Projects\Pokemon_Daycare2\Pokemon-Daycare2\Pokemon-Daycare2\obj\Debug\net10.0\ref\Pokemon-Daycare2.dll
